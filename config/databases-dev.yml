@@ -1,0 +1,7 @@
+# MySQL
+spring:
+  datasource:
+    url: jdbc:mysql://eols-dev:5433/postgres
+    username: postgres
+    dbpass: postgres
+    driver-class-name: com.mysql.jdbc.Driver
