@@ -9,5 +9,5 @@ spring:
 aws:
   s3:
     bucketName: learning-content
-    accessKey: S3-ACCESS-DEV-NAM
-    secretKey: S3-SECRET-DEV-NAM
+    accessKey: S3-ACCESS-DEV
+    secretKey: S3-SECRET-DEV
